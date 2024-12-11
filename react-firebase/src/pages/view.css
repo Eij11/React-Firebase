@@ -1,0 +1,9 @@
+.container-contact-card {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-card {
+  padding: 10px;
+  border: 1px solid black;
+}
